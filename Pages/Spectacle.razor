@@ -1,0 +1,59 @@
+﻿@page "/spectacle"
+
+<MudContainer Style="text-align:center" Class="pt-4 pb-4">
+
+    
+    <MudText Typo="Typo.h3" Align="Align.Center" Class="pt-4 pb-4 flex-shrink-1">Voice Acting</MudText>
+
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="https://youtu.be/Rnb__Ff5AM4">
+        <b> TrueAnon's The Game</b>
+    </MudLink>
+
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="https://josephmatheny.com/xen-the-zen-of-the-other-the-audio-drama/">
+        <b> Xen: The Zen of the Other by Joseph Matheny, the creator of Ong's Hat, the first ARG.</b>
+    </MudLink>
+
+    <MudDivider Class="pt-4 pb-4" />
+
+    <MudText Typo="Typo.h3" Align="Align.Center" Class="pt-4 pb-4 flex-shrink-1">Rituals by Chris Gabriel</MudText>
+    <MudContainer MaxWidth="MaxWidth.Small">
+        <MudImage Fluid="true" Src="\images\RitualChris.jpg" Alt="Chris Gabriel tarot" Class="pa-4" />
+    </MudContainer>
+    <iframe style="width:40vw; height: 40vh;" src="https://www.youtube.com/embed/thj7pnFrsmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link1">
+        <b> New Years Ritual</b>
+    </MudLink>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link2">
+        <b> The River Ritual</b>
+    </MudLink>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link2">
+        <b> NPCC Ritual</b>
+    </MudLink>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link4">
+        <b> NPC Fest Ritual</b>
+    </MudLink>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link5">
+        <b> Mandate Heaven Ritual</b>
+    </MudLink>
+    <MudLink Class="pt-4 pb-4 d-block" Typo="Typo.h4" href="@Link6">
+        <b> LA Ritual</b>
+    </MudLink>
+
+    <MudContainer MaxWidth="MaxWidth.Small">
+        <MudImage Fluid="true" Src="\images\ritualLyd.jpeg" Alt="Chris Gabriel Ritual" Class="pa-4" />
+    </MudContainer>
+
+     <MudContainer MaxWidth="MaxWidth.Small">
+        <MudImage Fluid="true" Src="\images\RitualLydNight.png" Alt="Chris Gabriel Ritual" Class="pa-4" />
+    </MudContainer>
+
+</MudContainer>
+
+@code {
+    string Link1 = "https://www.tiktok.com/@memeanalysis/video/7183822388587597102";
+    string Link2 = "https://www.tiktok.com/@memeanalysis/video/7150423681439698218";
+    string Link3 = "https://www.tiktok.com/@memeanalysis/video/7115784889537940782";
+    string Link4 = "https://www.tiktok.com/@memeanalysis/video/7115059364964076846";
+    string Link5 = "https://www.tiktok.com/@memeanalysis/video/7114100517357260075";
+    string Link6 = "https://www.tiktok.com/@memeanalysis/video/7082134327370222891";
+}

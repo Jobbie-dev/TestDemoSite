@@ -1,0 +1,58 @@
+﻿@page "/"
+@using CGSite.functionality
+
+<PageTitle>Chris Gabriel</PageTitle>
+
+<MudContainer Style="text-align:center">
+    <MudText Typo="Typo.h1" Align="Align.Center" Class="pt-4 flex-shrink-1">Chris Gabriel</MudText>
+
+    <MudButtonGroup Class="theme-primary">
+        <MudButton Href="https://goddisk.substack.com/">Writing</MudButton>
+
+        <MudMenu Label="Social" Dense="true">
+            <MudMenuItem Href="https://www.instagram.com/thegoddisk/?hl=en">Instagram</MudMenuItem>
+            <MudMenuItem Href="https://twitter.com/thegoddisk?t=NnyzX1oHV-FzmAROP0VmjA&s=09">Twitter</MudMenuItem>
+            <MudMenuItem Href="https://www.instagram.com/memeanalyses/?hl=en">Meme Analysis Instagram</MudMenuItem>
+        </MudMenu>
+
+        <MudButton Href="/spectacle">Spectacle</MudButton>
+
+        <MudMenu Label="Creative" Dense="true">
+            <MudMenuItem Href="/podcast">Podcast</MudMenuItem>
+            <MudMenuItem Href="/works">Works</MudMenuItem>
+            <MudMenuItem Href="https://aeoniccomics.bigcartel.com/">Comics</MudMenuItem>
+            <MudMenuItem Href="/website">Website</MudMenuItem>
+        </MudMenu>
+
+    </MudButtonGroup>
+
+    <MudContainer MaxWidth="MaxWidth.Small">
+        <MudImage Fluid="true" Src="\images\ChrisIntro.png" Alt="Chris" Class="pa-4" />
+    </MudContainer>
+    <MudText Typo="Typo.h6" Align="Align.Center" Class="pt-4">I do many many things. I am a writer, a poet, a magick philosopher, a speaker, but above all I am a man. A hopelessly inquisitive man, just like you. Join me as I delve into the mysteries of this strange world!</MudText>
+    <MudText Typo="Typo.h6" Align="Align.Center" Class="flex-shrink-1"><br /> UNVEIL THE SECRETS:<a href="mailto:memeanalysis2@gmail.com"> Book a Reading!</a></MudText>
+    <MudText Typo="Typo.h6" Align="Align.Center" Class="pb-5 flex-shrink-1">VOICE THE MYSTERIES.<a href="mailto:memeanalysis2@gmail.com"> Have my Voice in your work!</a></MudText>
+
+    <MudDivider Class="pa-4" />
+
+    <iframe style="width:60vw; height: 40vh;" src="https://www.youtube.com/embed/WwSKY4P6AJk" title="YouTube video player"
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <MudPaper Class="pt-5 pb-5"></MudPaper>
+
+    <MudDivider Class="pa-4 pt-4" />
+
+    <MudText Typo="Typo.h2" Align="Align.Center" Class="flex-shrink-1" id="contact">Contact</MudText>
+    @*<MudText Typo="Typo.h3" Align="Align.Center" Class="flex-shrink-1">Tarot Readings</MudText>
+    <MudButton Href="/youtube">Tarot</MudButton> Perhaps, this should be titled services or placed on home page instead?*@
+    <MudLink href="mailto:memeanalysis2@gmail.com"><MudText Typo="Typo.h5" Align="Align.Center" Class="pt-4">Email: memeanalysis2@gmail.com</MudText></MudLink>
+    <MudLink href="https://www.instagram.com/memeanalyses/"><MudText Typo="Typo.h5" Align="Align.Center" Class="pt-4">Instagram: @@memeanalyses</MudText></MudLink>
+
+    <MudPaper Class="pt-5 pb-5"></MudPaper>
+</MudContainer>
+
+<AnchorNavigation />
+
+
+
+
+

@@ -21,19 +21,19 @@
 		<Content Update="wwwroot\images\books1.png">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\Books2.png">
+		<Content Update="wwwroot\images\books2.png">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\ChrisIntro.png">
+		<Content Update="wwwroot\images\chrisintro.png">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\giftOfThothWorks.png">
+		<Content Update="wwwroot\images\giftofthothworks.png">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\MagickMatchbooksWorks.jpeg">
+		<Content Update="wwwroot\images\magickmatchbooksworks.jpeg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\RitualChris.JPG">
+		<Content Update="wwwroot\images\ritualchris.jpg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 		<Content Update="wwwroot\images\ritualLyd.jpeg">

@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+<MudThemeProvider Theme="theme" />
+<div class="page">
+    @*    <div class="sidebar">
+    <NavMenu />
+    </div>*@
+
+    <main>
+        @*        <div class="top-row px-4">
+        <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>*@
+       
+        <div style="z-index: 10">
+            <article class="">
+                @Body
+            </article>
+            <div class="bg-animation" style="z-index: -9999">
+                <div id="stars" style="z-index: -1000"></div>
+                <div id="stars2" style="z-index: -1000"></div>
+                <div id="stars3" style="z-index: -1000"></div>
+                <div id="stars4" style="z-index: -1000"></div>
+            </div>  
+        </div>
+    </main>
+</div>

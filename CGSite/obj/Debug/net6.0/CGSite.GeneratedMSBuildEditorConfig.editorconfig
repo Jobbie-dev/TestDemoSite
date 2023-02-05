@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = CGSite
+build_property.RootNamespace = CGSite
+build_property.ProjectDir = G:\Source\CGSite\CGSite\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Source\CGSite\CGSite
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Source/CGSite/CGSite/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/functionality/AnchorNavigation.razor]
+build_metadata.AdditionalFiles.TargetPath = ZnVuY3Rpb25hbGl0eVxBbmNob3JOYXZpZ2F0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Articles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Podcast.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kY2FzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Spectacle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlY3RhY2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Website.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2Vic2l0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Works.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Source/CGSite/CGSite/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pbzr99bx6r
+
+[G:/Source/CGSite/CGSite/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5zz6puwhp6
+
+[G:/Source/CGSite/CGSite/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yi6dbptuiy

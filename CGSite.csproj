@@ -39,7 +39,7 @@
 		<Content Update="wwwroot\images\ritualLyd.jpeg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\RitualLydNight.PNG">
+		<Content Update="wwwroot\images\rituallydnight.PNG">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 		<Content Update="wwwroot\images\TheMagician.jpg">

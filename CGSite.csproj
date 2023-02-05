@@ -36,16 +36,16 @@
 		<Content Update="wwwroot\images\ritualchris.jpg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\ritualLyd.jpeg">
+		<Content Update="wwwroot\images\rituallyd.jpeg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\rituallydnight.PNG">
+		<Content Update="wwwroot\images\rituallydnight.png">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\images\TheMagician.jpg">
+		<Content Update="wwwroot\images\Themagician.jpg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Update="wwwroot\TheMagician.jpg">
+		<Content Update="wwwroot\Themagician.jpg">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
